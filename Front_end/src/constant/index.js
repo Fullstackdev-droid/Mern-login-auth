@@ -1,0 +1,39 @@
+// Authentication
+export const SET_AUTHENTICATION = 'SET_AUTHENTICATION';
+export const SET_AUTH_STATUS = "SET_AUTH_STATUS"
+
+
+// Modal
+export const TOGGLE_SIDE_BAR = "TOGGLE_SIDE_BAR";
+export const SETTING_MODAL = "SETTING_MODAL"
+
+// User Register
+export const USER_REGISTER_START = 'USER_REGISTER_START';
+export const USER_REGISTER_SUCCESS = 'USER_REGISTER_SUCCESS';
+export const USER_REGISTER_ERROR = 'USER_REGISTER_ERROR';
+
+// Current User
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+export const CONFIRMATION_CODE_MODAL = 'CONFIRMATION_CODE_MODAL';
+export const SET_KYC_DETAIL = 'SET_KYC_DETAIL';
+
+// Trade
+export const SET_LAST_PRICE = 'SET_LAST_PRICE';
+export const SET_SPOT_PAIR_TRADE = 'SET_SPOT_PAIR_TRADE';
+export const SET_SPOT_TRADE_PAIR_LIST = 'SET_SPOT_TRADE_PAIR_LIST'
+export const SET_THEME = 'SET_THEME'
+
+// Currency
+export const SET_USER_FIRST_CURRENCY = 'SET_USER_FIRST_CURRENCY';
+export const SET_USER_SECOND_CURRENCY = 'SET_USER_SECOND_CURRENCY';
+
+
+// Address To
+export const SET_CURRENT_ADDRESS = 'SET_CURRENT_ADDRESS';
+
+// get Deposit
+export const GET_DEPOSIT = 'GET_DEPOSIT';
+
+
+//bank kyc errors
+export const GET_BANK_KYC_ERRORS = "GET_BANK_KYC_ERRORS"
